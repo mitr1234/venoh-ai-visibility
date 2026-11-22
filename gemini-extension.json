@@ -1,0 +1,10 @@
+{
+  "name": "venoh-ai-visibility",
+  "version": "1.0.0",
+  "description": "Free check: when buyers ask AI for the best option, is your business named, or a rival? By Venoh.",
+  "mcpServers": {
+    "venoh": {
+      "httpUrl": "https://mcp.venoh.com/mcp"
+    }
+  }
+}
